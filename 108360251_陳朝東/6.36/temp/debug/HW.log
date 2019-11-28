@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+D:\Homework\108360251_陳朝東\6.36\source\main.c(11,6): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Homework\108360251_陳朝東\6.36\source\main.c(12,11): warning C4047: 'function': 'char' differs in levels of indirection from 'char [100]'
+D:\Homework\108360251_陳朝東\6.36\source\main.c(12,11): warning C4024: 'reverse': different types for formal and actual parameter 1
+D:\Homework\108360251_陳朝東\6.36\source\main.c(18,1): warning C4028: formal parameter 1 different from declaration
+  HW.vcxproj -> D:\Homework\108360251_陳朝東\6.36\HW\..\temp\debug\HW.exe
